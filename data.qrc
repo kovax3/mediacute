@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Quran.xml</file>
+        <file>icons/48x48/mediacute.png</file>
+    </qresource>
+</RCC>
